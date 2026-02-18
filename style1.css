@@ -1,0 +1,120 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   
+}
+
+nav{
+    background-image: linear-gradient(to bottom,rgb(207, 144, 238),rgb(214, 185, 229)); 
+    top: 0%;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+
+
+}
+
+
+img
+{
+    border-radius: 50%;
+    width: 400px;
+    margin: auto;
+    display: block;
+    
+}
+.img
+{
+
+  display:flex;
+  justify-content: center;
+background-image: linear-gradient(to bottom,rgb(214, 185, 229) , rgb(241, 241, 241));
+}
+.contact
+{
+    bottom: 0;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+a{
+    font-size: large;
+    color: azure;
+}
+.cr
+{
+    display: inline;
+    color: grey;
+    
+}
+.bio1
+{
+    border-style:hidden;
+    border-radius: 10px;
+    width: 600px;
+    margin-top: 10px;
+    padding: 10px;
+    margin: 20px;
+    border-color: rgb(217, 197, 236);
+    font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bio{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.bio1:hover
+{
+
+border-top-style: ridge;
+scale: 1.1;
+
+}
+.skills
+{
+    margin-left: 900px;
+    
+}
+ul{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 300px;
+    border-radius: 10px;
+    list-style-position: inside;
+    list-style-type: none;
+    padding-left: 20px;
+    line-height: 0.7;
+    font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10px;
+}
+ul:hover
+{
+
+border-top-style:ridge;
+scale: 1.1;
+border-color: rgb(217, 197, 236);
+}
+<p>
+{
+    font-size: medium;
+}
+div>h1
+{
+font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: bold;
+}
+h2{
+    display: inline;
+}
+.icon3
+{
+    color: grey;
+}
